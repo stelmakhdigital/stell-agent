@@ -3,8 +3,8 @@ package agent_test
 import (
 	"testing"
 
-	"github.com/stelmakhdigital/ai"
-	"stell/agent"
+	"github.com/stelmakhdigital/stell-ai"
+	"github.com/stelmakhdigital/stell-agent"
 )
 
 func TestConvertToLlmDropsCustom(t *testing.T) {

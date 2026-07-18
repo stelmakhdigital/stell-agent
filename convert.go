@@ -1,6 +1,6 @@
 package agent
 
-import "github.com/stelmakhdigital/ai"
+import "github.com/stelmakhdigital/stell-ai"
 
 // ConvertToLlm фильтрует сообщения сессии до ролей, понятных LLM, перед вызовом провайдера.
 func ConvertToLlm(messages []ai.Message) []ai.Message {

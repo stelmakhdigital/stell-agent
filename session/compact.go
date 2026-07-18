@@ -3,7 +3,7 @@ package session
 import (
 	"time"
 
-	"github.com/stelmakhdigital/ai"
+	"github.com/stelmakhdigital/stell-ai"
 )
 
 // CompactResult — итог линейного компактирования ветки.

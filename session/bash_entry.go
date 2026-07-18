@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"time"
 
-	"github.com/stelmakhdigital/ai"
+	"github.com/stelmakhdigital/stell-ai"
 )
 
 // BashEntryMeta — метаданные bash-записи в сессии (исключение из контекста и т.д.).

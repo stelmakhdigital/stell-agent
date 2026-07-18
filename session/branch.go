@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/stelmakhdigital/ai"
+	"github.com/stelmakhdigital/stell-ai"
 )
 
 // BranchWithSummary переключает активную ветку на branchFromID и добавляет

@@ -6,7 +6,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/stelmakhdigital/ai"
+	"github.com/stelmakhdigital/stell-ai"
 )
 
 func TestSessionJSONLRoundTrip(t *testing.T) {

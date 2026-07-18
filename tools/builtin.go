@@ -9,7 +9,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/stelmakhdigital/ai"
+	"github.com/stelmakhdigital/stell-ai"
 )
 
 // CoreTools — стандартные встроенные инструменты (всегда регистрируются, кроме --no-tools).

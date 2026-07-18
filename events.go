@@ -1,6 +1,6 @@
 package agent
 
-import "github.com/stelmakhdigital/ai"
+import "github.com/stelmakhdigital/stell-ai"
 
 // EventType — события цикла агента.
 type EventType string

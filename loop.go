@@ -4,10 +4,10 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/stelmakhdigital/ai"
-	"github.com/stelmakhdigital/ai/provider"
-	"stell/agent/session"
-	"stell/agent/tools"
+	"github.com/stelmakhdigital/stell-ai"
+	"github.com/stelmakhdigital/stell-ai/provider"
+	"github.com/stelmakhdigital/stell-agent/session"
+	"github.com/stelmakhdigital/stell-agent/tools"
 )
 
 // Loop — низкоуровневый исполнитель хода агента.

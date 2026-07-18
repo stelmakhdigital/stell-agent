@@ -13,7 +13,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/stelmakhdigital/ai"
+	"github.com/stelmakhdigital/stell-ai"
 )
 
 // FormatVersion — версия заголовка сессии (v3).

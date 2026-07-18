@@ -11,8 +11,8 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/stelmakhdigital/ai"
-	"stell/agent"
+	"github.com/stelmakhdigital/stell-ai"
+	"github.com/stelmakhdigital/stell-agent"
 )
 
 // Options настраивают StreamProxy.

@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"time"
 
-	"github.com/stelmakhdigital/ai"
+	"github.com/stelmakhdigital/stell-ai"
 )
 
 // BuildContextEntries пересобирает LLM-сообщения из активной ветки с учётом семантики веток.

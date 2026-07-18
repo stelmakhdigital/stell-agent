@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/stelmakhdigital/ai"
+	"github.com/stelmakhdigital/stell-ai"
 )
 
 func TestStripImagesFromActiveBranch(t *testing.T) {

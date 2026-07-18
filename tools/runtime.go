@@ -10,7 +10,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/stelmakhdigital/ai"
+	"github.com/stelmakhdigital/stell-ai"
 )
 
 // MaxOutputBytes — лимит размера вывода инструмента до spill на диск.

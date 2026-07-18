@@ -4,8 +4,8 @@ import (
 	"context"
 	"sync"
 
-	"github.com/stelmakhdigital/ai"
-	"stell/agent/tools"
+	"github.com/stelmakhdigital/stell-ai"
+	"github.com/stelmakhdigital/stell-agent/tools"
 )
 
 // ToolExecutionMode — последовательное или параллельное выполнение tool calls в одном ходе assistant.

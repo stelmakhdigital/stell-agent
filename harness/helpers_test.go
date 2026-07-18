@@ -3,8 +3,8 @@ package harness
 import (
 	"testing"
 
-	"github.com/stelmakhdigital/ai"
-	"stell/agent/session"
+	"github.com/stelmakhdigital/stell-ai"
+	"github.com/stelmakhdigital/stell-agent/session"
 )
 
 func TestEstimateContextTokens(t *testing.T) {

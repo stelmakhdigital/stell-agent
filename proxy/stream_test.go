@@ -8,8 +8,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/stelmakhdigital/ai"
-	"stell/agent/proxy"
+	"github.com/stelmakhdigital/stell-ai"
+	"github.com/stelmakhdigital/stell-agent/proxy"
 )
 
 func TestStreamProxySSE(t *testing.T) {

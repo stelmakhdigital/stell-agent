@@ -3,7 +3,7 @@ package session
 import (
 	"testing"
 
-	"github.com/stelmakhdigital/ai"
+	"github.com/stelmakhdigital/stell-ai"
 )
 
 func TestBuildContextEntries(t *testing.T) {

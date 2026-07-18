@@ -3,7 +3,7 @@ package agent
 import (
 	"context"
 
-	"github.com/stelmakhdigital/ai"
+	"github.com/stelmakhdigital/stell-ai"
 )
 
 // StreamFn подменяет вызов Registry.Chat (например HTTP-прокси).

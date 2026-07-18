@@ -6,12 +6,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/stelmakhdigital/ai"
-	"github.com/stelmakhdigital/ai/provider"
-	"github.com/stelmakhdigital/ai/provider/mock"
-	"stell/agent"
-	"stell/agent/session"
-	"stell/agent/tools"
+	"github.com/stelmakhdigital/stell-ai"
+	"github.com/stelmakhdigital/stell-ai/provider"
+	"github.com/stelmakhdigital/stell-ai/provider/mock"
+	"github.com/stelmakhdigital/stell-agent"
+	"github.com/stelmakhdigital/stell-agent/session"
+	"github.com/stelmakhdigital/stell-agent/tools"
 )
 
 type slowTool struct {

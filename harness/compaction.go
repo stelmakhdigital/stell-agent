@@ -3,8 +3,8 @@ package harness
 import (
 	"strings"
 
-	"github.com/stelmakhdigital/ai"
-	"stell/agent/session"
+	"github.com/stelmakhdigital/stell-ai"
+	"github.com/stelmakhdigital/stell-agent/session"
 )
 
 // CompactionSettings — пороги компактирования контекста.
