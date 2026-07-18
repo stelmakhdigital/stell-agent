@@ -1,6 +1,6 @@
 // Package agent — runtime-слой агента: цикл LLM+tools, сессии, хуки.
 //
-// Роль в монорепо: `github.com/stelmakhdigital/stell-agent` стоит между `github.com/stelmakhdigital/stell-ai` и `stell/coding-agent`.
+// Роль в монорепо: `github.com/stelmakhdigital/stell-agent` стоит между `github.com/stelmakhdigital/stell-ai` и `github.com/stelmakhdigital/stell-coding`.
 // Продуктовая оркестрация (Service, extensions, discovery) живёт в coding-agent;
 // этот пакет даёт Loop / Agent, хранилище сессий и встроенные инструменты.
 //

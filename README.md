@@ -2,7 +2,7 @@
 
 Runtime-слой агента: цикл LLM+tools, сессии, инструменты и хуки.
 
-Продуктовая оркестрация (`Service`, extensions, discovery) живёт в `stell/coding-agent`
+Продуктовая оркестрация (`Service`, extensions, discovery) живёт в `github.com/stelmakhdigital/stell-coding`
 и либо управляет `Agent` там, либо вызывает `Loop` напрямую.
 
 ## Возможности
